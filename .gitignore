@@ -1,0 +1,15 @@
+# C#/.NET 编译产物
+[Bb]in/
+[Oo]bj/
+publish/
+
+# Visual Studio 用户特定文件
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# 操作系统和运行时生成的文件
+*.log
+*.tmp
+*.DS_Store
